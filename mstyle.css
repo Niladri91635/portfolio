@@ -1,0 +1,223 @@
+body {
+    front-size: 16px;
+    color: #0c0c0c;
+    background-image: url(istockphoto-1367078593-612x612.jpg);
+    font-family: 'oxygen', sans-serif;
+    overflow-x: hidden;
+}
+
+nav {
+    background-color: #fff;
+    top: 0;
+}
+
+#header-nav {
+    background-color: rgb(34, 34, 34);
+    border-radius: 0;
+    border: 0;
+    top: 0;
+}
+
+.tittle_pic {
+    width: 8rem;
+    height: 6rem;
+    margin: 0.5rem;
+    float: left;
+}
+
+.navbar-brand {
+    display: flex;
+}
+
+.navbar-nav {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 30px;
+    margin-top: 14px;
+}
+
+.nav-item {
+    font-size: 18px;
+    display: inline-block;
+    line-height: 20px;
+    font-weight: 400;
+    color: rgba(248, 245, 245, 0.87);
+    cursor: pointer;
+    padding: 8px 7.7px
+}
+
+.container1 {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text-container {
+    max-width: 40%;
+    margin-left: 10rem;
+    justify-content: center;
+
+}
+
+.name {
+    font-size: x-large;
+    text-align: justify;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.image-container {
+    width: 500px;
+}
+
+.home_pic {
+    margin-top: 5rem;
+    margin-right: 10rem;
+    width: 30rem;
+    height: 30rem;
+}
+
+.about {
+    width: 100%;
+    height: 6rem;
+    color: #fff;
+    margin-top: 8rem;
+    text-align: center;
+    font-size: larger;
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.shape {
+    position: absolute;
+    width: 250px;
+    height: 150px;
+    background-color: rgb(80, 80, 243);
+    top: -3rem;
+    right: 38rem;
+    border-radius: 50%;
+    z-index: -3;
+}
+
+.container2 {
+    box-sizing: border-box;
+    align-items: center;
+    display: flex;
+}
+
+.text-container1 {
+    width: 50rem;
+}
+
+.text {
+    max-width: 60%;
+    margin-left: 6rem;
+    padding: 1rem;
+    background-color: aliceblue;
+    justify-content: center;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.img {
+    width: 500px;
+}
+
+.about_img {
+    margin-top: 3rem;
+    margin-right: 10rem;
+    width: 30rem;
+    height: 30rem;
+}
+
+.corses {
+    width: 100%;
+    height: 6rem;
+    padding: 2rem;
+    margin-left: 12rem;
+    margin-top: 5rem;
+    position: relative;
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;               
+}
+
+.shape1 {
+    position: absolute;
+    width: 16rem;
+    height: 6rem;
+    background-color: rgb(53, 120, 245);
+    top: 1.7rem;
+    left: 0.5rem;
+    z-index: -3;
+    border-radius: 70%;
+}
+.container3 {
+    box-sizing: border-box;
+    display: flex;
+}
+.text-container3 {
+    width: 30rem;
+}
+.text1 {
+    background-color: antiquewhite;
+    width: 20rem;
+    height: 30rem;
+    padding: 1rem;
+    margin-left: 8rem;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.images {
+    width: 50rem;
+    padding: 2rem;
+}
+.c_logo {
+    width: 8rem;
+    heigth: 8rem;
+    margin-left: 3rem;
+}
+.java_logo {
+    width: 10rem;
+    height: 11rem;
+    margin-left: 4rem;
+}
+.python_logo {
+    width: 8rem;
+    height: 8rem;
+    margin-left: 4rem;
+}
+.html_logo {
+    width: 8rem;
+    height: 8rem;
+    margin-left: 4rem;
+}
+.css_logo {
+    width: 8rem;
+    height: 8rem;
+    margin-left: 4rem;
+    margin-top: 3rem;
+}
+.js_logo {
+    width: 8rem;
+    height: 8rem;
+    margin-left: 4rem;
+}
+.contact {
+    width: 90rem;
+    margin-top: 5rem;
+    text-align: center;
+    color:#fff;
+    position: relative;
+
+}
+.shape2 {
+    position: absolute;
+    width: 16rem;
+    height: 6rem;
+    background-color: rgb(53, 120, 245);
+    top: -1.5rem;
+    left: 37rem;
+    z-index: -3;
+    border-radius: 70%;
+}
